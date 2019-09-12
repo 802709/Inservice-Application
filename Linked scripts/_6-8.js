@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type= "text/css" href = "style.css">
+    <script src="script.js"></script>
+</head>
+<body onload = "loadPage()">
+   
+    <section>
+       <article>
+        </article>
+        </section>
+    <section>
+<!--
+     <nav><h3>Other</h3> 
+            <a href = "index.html"> Source Code</a>
+        </nav>
+-->
+    </section>
+
+        <footer>
+          <nav><h3>Back to Home</h3> 
+            <a href = "archive.html"> Home Page</a>
+        </nav>
+
+    </footer>
+</body>
+</html>
