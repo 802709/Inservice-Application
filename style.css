@@ -105,6 +105,23 @@ article.aa{
         flex-direction: column;
     }
 }
+
+span{
+    color:aqua;
+/*    display: inline-block;*/
+    align-content: center;
+    padding-right: 10px;
+/*    padding-left: 10px;*/
+}
+label{
+color:#daf7ff;
+padding-left: 5px;
+    
+    
+}
+article.aaa{
+    background-color: #1a28d0;
+}
 /*
 
 s{
